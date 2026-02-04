@@ -1,0 +1,13 @@
+package org.example.springbootjenkinsdemo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringBootJenkinsDemoApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
