@@ -38,6 +38,7 @@
     </dependencyManagement>
 
     <build>
+        <finalName>spring-boot-jenkins-demo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
