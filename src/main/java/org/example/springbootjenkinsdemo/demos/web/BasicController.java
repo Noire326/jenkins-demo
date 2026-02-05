@@ -32,7 +32,7 @@ public class BasicController {
     @RequestMapping("/hello")
     @ResponseBody
     public String hello(@RequestParam(name = "name", defaultValue = "unknown user") String name) {
-        return "Hello[test change " + "2026年2月5日 13:32:30" + "] " + name;
+        return "Hello[test change " + "2026年2月5日 14:24:30" + "] " + name;
     }
 
     // http://127.0.0.1:8080/user
